@@ -21,8 +21,14 @@ javac Server/Server.java
 java Server/Server
 ```
 
-Terminal 2:
+Terminal 2 (for Socket Client):
 ```bash
 javac Client/CLient.java
 java Client/Client
+```
+
+Terminal 2 (for RMI Client):
+```bash
+javac Client/RMICLient.java
+java Client/RMIClient
 ```
